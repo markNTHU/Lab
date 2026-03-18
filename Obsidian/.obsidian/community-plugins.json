@@ -3,5 +3,6 @@
   "dataview",
   "file-cleaner-redux",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

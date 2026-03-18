@@ -165,13 +165,23 @@
               "icon": "lucide-list",
               "title": "20260318 的大綱"
             }
+          },
+          {
+            "id": "bdf8eaf957188214",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +194,8 @@
       "bases:建立新的 base": false,
       "copilot:Open Copilot Chat": false,
       "file-cleaner-redux:Clean files": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7d7fb366bfa92c57",
