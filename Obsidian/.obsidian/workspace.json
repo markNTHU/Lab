@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260318.md",
+                "file": "Calendar/Journal/20260318.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d7fb366bfa92c57",
+  "active": "b17a9dc20bc3ed2e",
   "lastOpenFiles": [
+    "Assets/Template",
     "歡迎.md",
-    "20260318.md",
+    "Calendar/Journal/20260318.md",
     "Calendar/Journal",
     "Efforts",
     "Calendar",
