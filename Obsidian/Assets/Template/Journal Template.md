@@ -1,14 +1,12 @@
 ---
-date: 2026-03-18
-tags:
-  - lab/log
-  - work/report
-project:
+date: <% tp.date.now("YYYY-MM-DD") %>
+tags: [lab/log, work/report]
+project: 
 status: 🟢 進度正常
 ---
-# 🔬 2026-03-18 (星期三)
+# 🔬 <% tp.date.now("YYYY-MM-DD") %> (<% tp.date.now("dddd") %>)
 
-<- [[2026-03-17|昨天]] | [[2026-03-19|明天]] ->
+<- [[<% tp.date.yesterday("YYYY-MM-DD") %>|昨天]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>|明天]] ->
 
 ## 🎯 今日核心目標
 > [!Note] 待辦主題
