@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/20260318.md",
+                "file": "Calendar/Journal/2026-03-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260318"
+              "title": "2026-03-26"
             }
           }
         ],
@@ -200,16 +200,30 @@
   },
   "active": "7d7fb366bfa92c57",
   "lastOpenFiles": [
+    "temp_20260326_diff.md",
+    "advanced_diff.py",
+    "temp_20260326.md",
+    "temp_20260326.py",
     "Assets/Template/Journal Template.md",
+    "Calendar/Journal/2026-03-26.md",
+    "Calendar/Journal/2026-03-25.md",
+    "temp_20260325.md",
+    "temp_20260325.py",
+    "Calendar/Journal/2026-03-24.md",
+    "Calendar/Journal/2026-03-18.md",
+    "temp_20260324.md",
+    "temp_20260324.py",
+    "temp_20260323.md",
+    "temp_20260323.py",
+    "fetch_correct.py",
+    "temp_output.md",
+    "temp_fetch.py",
+    "HfS2 (1).xlsx",
+    "Excel轉文字工具.bat",
+    "excel_to_md.py",
+    "2026-03-17.md",
+    "2026-03-24.md",
     "Assets/Template/Atlas Template.md",
-    "Calendar/Journal/20260318.md",
-    "Assets/Template/desktop.ini",
-    "Assets/Template",
-    "歡迎.md",
-    "Calendar/Journal",
-    "Efforts",
-    "Calendar",
-    "Atlas",
-    "Assets"
+    "歡迎.md"
   ]
 }
