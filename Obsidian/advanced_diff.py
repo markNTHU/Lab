@@ -81,8 +81,8 @@ def main():
                 if diff_str:
                     diff_strs.append(diff_str)
                     
-        # Output ONLY for 2026-03-26 as a demo
-        if '2026-03-26' in val_id or '260326' in val_id:
+        # Output ONLY for 2026-04-02 as a demo
+        if '2026-04-02' in val_id or '260402' in val_id:
             md_lines.append(f"#### 實驗編號：{val_id}")
             md_lines.append(f"- **研究對象：** {val_subject}")
             
@@ -94,7 +94,7 @@ def main():
             md_lines.append(f"- **結果**：{val_result}")
             md_lines.append("")
 
-    with open("c:/Users/markd/Obsidian/Obsidian/temp_20260326_diff.md", "w", encoding="utf-8") as f:
+    with open("c:/Users/markd/Obsidian/Obsidian/temp_20260402_diff.md", "w", encoding="utf-8") as f:
         f.write("\n".join(md_lines))
 
 if __name__ == '__main__':

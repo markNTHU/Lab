@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/2026-03-26.md",
+                "file": "Calendar/Journal/2026-04-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-26"
+              "title": "2026-04-02"
             }
           }
         ],
@@ -200,12 +200,15 @@
   },
   "active": "7d7fb366bfa92c57",
   "lastOpenFiles": [
+    "temp_20260402_diff.md",
+    "Calendar/Journal/2026-03-26.md",
+    "Calendar/Journal/2026-04-02.md",
+    "Calendar/Journal/未命名.md",
     "temp_20260326_diff.md",
     "advanced_diff.py",
     "temp_20260326.md",
     "temp_20260326.py",
     "Assets/Template/Journal Template.md",
-    "Calendar/Journal/2026-03-26.md",
     "Calendar/Journal/2026-03-25.md",
     "temp_20260325.md",
     "temp_20260325.py",
